@@ -1,9 +1,22 @@
 ---
-title: "About"
+title: "Dmitrii Tereshchenko / Дмитрий Терещенко"
+about:
+  id: hero-heading
+  template: jolla
+  image: "sources/haka_ava2.jpg"
+  links:
+    - icon: mastodon
+      text: Mastodon
+      href: https://econtwitter.net/@dtereshch
+    - icon: github
+      text: Github
+      href: https://github.com/dtereshch
 ---
 
-About this site
+:::{#hero-heading}
 
-```{r}
-1 + 1
-```
+Senior lecturer at HSE University in St. Petersburg. Teaching Econometrics and Empirical IO. R and Python enthusiast.
+
+:::
+
+
