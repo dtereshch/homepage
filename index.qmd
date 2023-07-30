@@ -1,11 +1,5 @@
 ---
-title: "Dmitrii Tereshchenko's Homepage"
+title: "Home"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is Dmitrii Tereshenko's website.
