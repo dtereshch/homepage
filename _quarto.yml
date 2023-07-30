@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: docs
-  resources: 
-        - "sources/Tereshchenko_academic_CV_eng.pdf"
 
 website:
   title: "Dmitrii Tereshchenko's Homepage"

@@ -22,7 +22,7 @@ about:
       href: https://scholar.google.ru/citations?user=V_XLJ0kAAAAJ&hl=en
     - icon: file-earmark-pdf-fill
       text: Curriculum Vitae
-      href: "sources/Tereshchenko_academic_CV_eng.pdf"
+      href: https://drive.google.com/file/d/1hWKrEgf_fan1GV1RtZK6DBxAD2EM2Cym/view?usp=sharing
 ---
 
 ::: {#hero-heading}
