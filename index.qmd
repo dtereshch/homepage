@@ -20,6 +20,9 @@ about:
     - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.ru/citations?user=V_XLJ0kAAAAJ&hl=en
+    - icon: file-earmark-pdf-fill
+      text: Curriculum Vitae
+      href: "sources/Tereshchenko_academic_CV_eng.pdf"
 ---
 
 ::: {#hero-heading}
