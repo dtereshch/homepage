@@ -1,5 +1,27 @@
 ---
-title: "Home"
+title: "Dmitrii Tereshchenko / Дмитрий Терещенко"
+about:
+  id: hero-heading
+  template: jolla
+  image: "sources/haka_ava2.jpg"
+  links:
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:dtereshch@gmail.com
+    - icon: telegram
+      text: Telegram
+      href: https://t.me/dtereshch
+    - icon: mastodon
+      text: Mastodon
+      href: https://econtwitter.net/@dtereshch
+    - icon: github
+      text: Github
+      href: https://github.com/dtereshch
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.ru/citations?user=V_XLJ0kAAAAJ&hl=en
 ---
 
-This is Dmitrii Tereshenko's website.
+::: {#hero-heading}
+Senior lecturer at HSE University in St. Petersburg. Teaching Econometrics and Empirical IO. R and Python enthusiast.
+:::
