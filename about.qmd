@@ -13,10 +13,6 @@ about:
       href: https://github.com/dtereshch
 ---
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 Senior lecturer at HSE University in St. Petersburg. Teaching Econometrics and Empirical IO. R and Python enthusiast.
-
 :::
-
-
