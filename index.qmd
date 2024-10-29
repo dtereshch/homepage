@@ -3,7 +3,7 @@ title: "Dmitrii Tereshchenko / Дмитрий Терещенко"
 about:
   id: hero-heading
   template: jolla
-  image: "sources/haka_ava2.jpg"
+  image: "sources/haka_ava_2024b.jpg"
   links:
     - icon: envelope-at-fill
       text: Email
