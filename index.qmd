@@ -1,28 +1,61 @@
 ---
 title: "Dmitrii Tereshchenko / Дмитрий Терещенко"
+
 about:
   id: hero-heading
   template: jolla
   image: "sources/haka_ava_2024b.jpg"
   links:
+
+    # Primary email contact
     - icon: envelope-at-fill
       text: Email
       href: mailto:dtereshch@gmail.com
-    - icon: telegram
-      text: Telegram
-      href: https://t.me/dtereshch
+
+    # Mastodon social profile
     - icon: mastodon
       text: Mastodon
       href: https://econtwitter.net/@dtereshch
+
+    # ResearchGate profile
+    - icon: people-fill
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Dmitrii-Tereshchenko
+
+    # Source code and projects on GitHub
     - icon: github
       text: Github
       href: https://github.com/dtereshch
+
+    # R package repository
+    - icon: box-fill
+      text: R package
+      href: https://cran.r-project.org/package=paneldesc
+
+    # Google Scholar profile
     - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.ru/citations?user=V_XLJ0kAAAAJ&hl=en
-    - icon: file-earmark-pdf-fill
-      text: Curriculum Vitae
-      href: https://github.com/dtereshch/curriculum-vitae/blob/cf28e90cfc04e586d0c6f89646f4f615f4529b1c/TereshchenkoDS_AcademCV_eng.pdf
+
+    # ORCID identifier
+    - icon: person-vcard
+      text: ORCID
+      href: https://orcid.org/0000-0002-8973-542X
+
+    # ResearcherID (Web of Science)
+    - icon: quote
+      text: ResearcherID
+      href: https://www.webofscience.com/wos/author/rid/T-6115-2018
+
+    # Scopus AuthorID
+    - icon: quote
+      text: Scopus AuthorID
+      href: https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=58020283800&origin=inward
+
+    # SPIN РИНЦ (Russian Science Citation Index)
+    - icon: quote
+      text: SPIN РИНЦ
+      href: https://elibrary.ru/author_profile.asp?authorid=640419
 ---
 
 ::: {#hero-heading}
